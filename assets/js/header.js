@@ -14,7 +14,7 @@ const headerHtml = `<div class="container">
       <div class="main_menu_inner collapse navbar-collapse justify-content-center" id="main_menu_dropdown">
         <ul class="main_menu_list unordered_list">
           <li ><a class="nav-link" href="index.html">Home</a></li>
-          <li class="active"><a class="nav-link" href="speciality.html">Speciality</a></li>
+          <li><a class="nav-link" href="speciality.html">Speciality</a></li>
           <li><a class="nav-link" href="oncology.html">Oncology</a></li>
           <li><a class="nav-link" href="achievements.html">Achievements</a></li>
           <li><a class="nav-link" href="myths-facts.html">Myths & facts</a></li>
@@ -39,11 +39,15 @@ $(document).ready(function () {
   var pathname = document.location.pathname;
 
   // Extract the filename without extension
-  var filename = pathname.split("/").pop().split(".").shift();
-  $(".main_menu_list li .nav-link").each(function () {
-    let url = $(this).attr("href").split(".").shift().toLowerCase();
-    filename === url
-      ? $(this).parent().addClass("active")
-      : $(this).parent().removeClass("active");
-  });
+  if (pathname === "/") {
+    $(".main_menu_list li").eq(0).addClass("active");
+  } else {
+    var filename = pathname?.split("/").pop().split(".").shift();
+    $(".main_menu_list li .nav-link").each(function () {
+      let url = $(this).attr("href").split(".").shift().toLowerCase();
+      filename === url
+        ? $(this).parent().addClass("active")
+        : $(this).parent().removeClass("active");
+    });
+  }
 });

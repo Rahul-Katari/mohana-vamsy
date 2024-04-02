@@ -6,7 +6,7 @@ let footerHtml = `<div class="container">
           <h2 class="text-white"><i class="fa-solid fa-ribbon me-2"></i>Dr. Mohana Vamsy</h2>
         </a></div>
       <div>
-        <table>
+        <table style="text-align:start" cellpadding="5" class="d-flex d-md-block justify-content-center">
           <tr>
             <td><i class="fa-solid fa-location-dot text-secondary"></i></td>
             <td>49, Caradon Hill, ULBSTER</td>
@@ -16,7 +16,7 @@ let footerHtml = `<div class="container">
             <td><a class="text-body mb-0" href="tel:+1 234 56 78 123">+1 234 56 78 123</a></td>
           </tr>
           <tr>
-            <td><i class="fa-solid fa-envelope text-secondary me-3"></i></td>
+            <td><i class="fa-solid fa-envelope text-secondary me-md-3"></i></td>
             <td><a class="text-body mb-0" href="mailto:info@mohanavamsy.com">info@mohanavamsy.com</a></td>
           </tr>
           <tr>
