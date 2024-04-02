@@ -1,6 +1,6 @@
 const headerHtml = `<div class="container">
 <div class="row align-items-center">
-  <div class="col-lg-4 col-5">
+  <div class="col-lg-4 col-9">
     <!-- <div class="site_logo"><a class="site_link" href="index.html"><img
           src="assets/images/site_logo/site_logo_primary.svg" alt="Site Logo – Dr. Mohana Vamsy"></a></div> -->
     <div>
@@ -9,7 +9,7 @@ const headerHtml = `<div class="container">
       </a>
     </div>
   </div>
-  <div class="col-lg-8 col-2">
+  <div class="col-lg-8 col-1">
     <nav class="main_menu navbar navbar-expand-lg">
       <div class="main_menu_inner collapse navbar-collapse justify-content-center" id="main_menu_dropdown">
         <ul class="main_menu_list unordered_list">
@@ -24,7 +24,7 @@ const headerHtml = `<div class="container">
       </div>
     </nav>
   </div>
-  <div class="col-5 d-md-none">
+  <div class="col-2 d-md-none">
     <ul class="header_btns_group unordered_list justify-content-end">
       <li><button class="mobile_menu_btn" type="button" data-bs-toggle="collapse"
           data-bs-target="#main_menu_dropdown" aria-expanded="false" aria-label="Toggle navigation"><i
