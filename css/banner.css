@@ -1,0 +1,17 @@
+.carousel-indicators [data-bs-target] {
+    background-color: #000;
+}
+
+.carousel-caption {
+    color: #000;
+}
+
+#banner {
+    .carousel-caption {
+        color: #000;
+        right: unset;
+        left: 5%;
+        bottom: unset;
+        top: 5%;
+    }
+}
