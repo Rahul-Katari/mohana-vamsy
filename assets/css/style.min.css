@@ -2192,8 +2192,8 @@ button[class*=-dark]:hover {
     position: relative;
 }
 
-.hero_image_wrap:after,
-.hero_image_wrap:before {
+.hero_image_wrap:after {
+    /* .hero_image_wrap:before { */
     width: 85%;
     height: 85%;
     z-index: -1;
