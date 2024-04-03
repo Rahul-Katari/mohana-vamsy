@@ -8,21 +8,21 @@ let footerHtml = `<div class="container"><div class="site_footer_content">
       <table style="text-align:start" cellpadding="5" class="d-flex d-md-block justify-content-center">
         <tr>
           <td><i class="fa-solid fa-phone text-secondary"></i></td>
-          <td><a class="text-body mb-0" href="tel:+919849022121">+91 98490 22121</a></td>
+          <td><a class="text-black mb-0" href="tel:+919849022121">+91 98490 22121</a></td>
         </tr>
         <tr>
           <td><i class="fa-solid fa-envelope text-secondary me-md-3"></i></td>
-          <td><a class="text-body mb-0" href="mailto:info@mohanavamsy.com">info@mohanavamsy.com</a></td>
+          <td><a class="text-black mb-0" href="mailto:info@mohanavamsy.com">info@mohanavamsy.com</a></td>
         </tr>
         <tr>
           <td><i class="fa-solid fa-clock text-secondary"></i></td>
-          <td>09:00 - 20:00</td>
+          <td class="text-black">09:00 - 20:00</td>
         </tr>
       </table>
     </div>
   </div>
   <div class="col-lg-4">
-    <a class="site_link text-body" href="https://maps.app.goo.gl/F35d8HXCZrDHWucJ8" target="_blank">
+    <a class="site_link text-black" href="https://maps.app.goo.gl/F35d8HXCZrDHWucJ8" target="_blank">
       <div class="site_logo">
         <h4 class="text-white"><i class="fa-solid fa-location-dot me-2"></i>Address</h4>
       </div>
