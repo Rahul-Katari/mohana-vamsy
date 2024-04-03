@@ -9,7 +9,7 @@ const headerHtml = `<div class="container">
       </a>
     </div>
   </div>
-  <div class="col-lg-8 col-1">
+  <div class="col-lg-8 col-1 px-0">
     <nav class="main_menu navbar navbar-expand-lg">
       <div class="main_menu_inner collapse navbar-collapse justify-content-center" id="main_menu_dropdown">
         <ul class="main_menu_list unordered_list">
