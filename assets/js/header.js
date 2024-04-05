@@ -14,9 +14,9 @@ const headerHtml = `<div class="container">
       <div class="main_menu_inner collapse navbar-collapse justify-content-center" id="main_menu_dropdown">
         <ul class="main_menu_list unordered_list">
           <li ><a class="nav-link" href="index.html">Home</a></li>
-          <li><a class="nav-link" href="speciality.html">Speciality</a></li>
-          <li><a class="nav-link" href="oncology.html">Oncology</a></li>
+          <li><a class="nav-link" href="services.html">Services</a></li>
           <li><a class="nav-link" href="achievements.html">Achievements</a></li>
+          <li><a class="nav-link" href="faqs.html">FAQ's</a></li>
           <li><a class="nav-link" href="blogs.html">Blogs</a></li>
           <li><a class="nav-link" href="gallery.html">Gallery</a></li>
           <li><a class="nav-link" href="contact.html">Contact Us</a></li>

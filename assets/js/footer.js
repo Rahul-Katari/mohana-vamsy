@@ -12,7 +12,7 @@ let footerHtml = `<div class="container"><div class="site_footer_content">
         </tr>
         <tr>
           <td><i class="fa-solid fa-envelope text-secondary me-md-3"></i></td>
-          <td><a class="text-black mb-0" href="mailto:info@mohanavamsy.com">info@mohanavamsy.com</a></td>
+          <td><a class="text-black mb-0" href="mailto:info@omegahospital.com">info@omegahospital.com</a></td>
         </tr>
         <tr>
           <td><i class="fa-solid fa-clock text-secondary"></i></td>
@@ -41,10 +41,8 @@ let footerHtml = `<div class="container"><div class="site_footer_content">
     <ul class="info_list unordered_list align-items-baseline flex-column">
       <li><a href="index.html"><span class="info_icon"><i class="fa-solid fa-circle"></i> </span><span
             class="info_text">Home</span></a></li>
-      <li><a href="speciality.html"><span class="info_icon"><i class="fa-solid fa-circle"></i> </span><span
-            class="info_text">Speciality</span></a></li>
-      <li><a href="oncology.html"><span class="info_icon"><i class="fa-solid fa-circle"></i> </span><span
-            class="info_text">Oncology</span></a></li>
+      <li><a href="services.html"><span class="info_icon"><i class="fa-solid fa-circle"></i> </span><span
+            class="info_text">Services</span></a></li>
       <li><a href="gallery.html"><span class="info_icon"><i class="fa-solid fa-circle"></i> </span><span
             class="info_text">Gallery</span></a></li>
       <li><a href="contact.html"><span class="info_icon"><i class="fa-solid fa-circle"></i> </span><span

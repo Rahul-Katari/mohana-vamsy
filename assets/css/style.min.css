@@ -2511,6 +2511,7 @@ button[class*=-dark]:hover {
     box-shadow: var(--bs-box-shadow);
     background-color: var(--bs-white);
     border-radius: var(--bs-border-radius);
+    height: 100%;
 }
 
 .work_process_item:hover {
@@ -2522,14 +2523,14 @@ button[class*=-dark]:hover {
 
 .work_process_item .serial_number {
     opacity: 0.3;
-    font-size: 72px;
+    font-size: 60px;
     font-weight: 800;
     line-height: 60px;
     color: var(--bs-primary);
 }
 
 .work_process_item .item_title {
-    font-size: 22px;
+    font-size: 18px;
     line-height: 28px;
     margin: 25px 0 15px;
 }
