@@ -1,0 +1,8 @@
+dynamic:
+
+1. videos
+2. testimonials
+3. header tags
+4. cms
+
+
