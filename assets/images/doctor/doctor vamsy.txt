@@ -1,0 +1,14 @@
+doctor vamsy:
+
+1. videos
+2. testimonials
+3. header tags
+4. cms
+
+
+pending:
+1. contact page
+2. faq - done
+3. expertise - done
+4. add blogs section.
+

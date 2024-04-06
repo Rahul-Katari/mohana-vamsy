@@ -63,8 +63,7 @@ let footerHtml = `<div class="container"><div class="site_footer_content">
 </div>
 </div>
 <div class="copyright_widget text-center">
-<p class="copyright_text m-0"> © <b>Dr. Mohna Vamsy</b> All rights reserved Copyrights 2024
-</p>
+<p class="copyright_text m-0"> © <b>Dr. Mohna Vamsy</b> All rights reserved Copyrights ${new Date().getFullYear()}</p>
 </div></div>`;
 $(document).ready(function () {
   $(".site_footer").html(footerHtml);
