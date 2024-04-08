@@ -7,8 +7,9 @@ doctor vamsy:
 
 
 pending:
-1. contact page
-2. faq - done
-3. expertise - done
-4. add blogs section.
+1. images in home page
+2. blogs in home page
+3. blog detail page
+4. new faq's
+
 
