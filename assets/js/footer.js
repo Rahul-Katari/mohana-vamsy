@@ -53,7 +53,7 @@ let footerHtml = `<div class="container"><div class="site_footer_content">
     <ul class="social_links unordered_list justify-content-center justify-content-lg-end mt-auto">
       <li class="d-none"><a href="https://facebook.com" target="_blank"><i class="fa-brands fa-facebook-f"></i></a></li>
       <li class="d-none"><a href="https://instagram.com" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
-      <li><a href="https://in.linkedin.com/company/omegahospitals?trk=public_post_feed-actor-name" target="_blank"><i class="fa-brands fa-twitter"></i></a></li>
+      <li><a href="https://in.linkedin.com/company/omegahospitals?trk=public_post_feed-actor-name" target="_blank"><i class="fa-brands fa-linkedin"></i></a></li>
       <li><a href="https://twitter.com/yourcancerdr" target="_blank"><i class="fa-brands fa-twitter"></i></a>
       </li>
       <li><a href="https://youtube.com/@dr.mohanavamsy7513?si=InOU4DIR1DDL7UqS" target="_blank"><i
