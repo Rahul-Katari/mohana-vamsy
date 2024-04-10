@@ -5,7 +5,7 @@ const headerHtml = `<div class="container">
           src="assets/images/site_logo/site_logo_primary.svg" alt="Site Logo – Dr. Mohana Vamsy"></a></div> -->
     <div>
       <a class="site_link" href="index.html">
-        <h2 class="text-primary"><i class="fa-solid fa-ribbon me-2"></i>Dr. Mohana Vamsy</h2>
+        <h2 class="text-primary"><i class="fa-solid fa-ribbon me-2"></i>Dr. Ch. Mohana Vamsy</h2>
       </a>
     </div>
   </div>

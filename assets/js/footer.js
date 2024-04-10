@@ -16,7 +16,7 @@ let footerHtml = `<div class="container"><div class="site_footer_content">
         </tr>
         <tr>
           <td><i class="fa-solid fa-clock text-secondary"></i></td>
-          <td class="text-black">09:00 - 20:00</td>
+          <td class="text-black"><strong>Mon</strong> to <strong>Sat</strong> : <strong class="text-white"> 08:00 - 20:00</strong></td>
         </tr>
       </table>
     </div>
@@ -51,13 +51,13 @@ let footerHtml = `<div class="container"><div class="site_footer_content">
   </div>
   <div class="col-lg-3 d-flex justify-content-center">
     <ul class="social_links unordered_list justify-content-center justify-content-lg-end mt-auto">
-      <li><a href="https://facebook.com" target="_blank"><i class="fa-brands fa-facebook-f"></i></a></li>
-      <li><a href="https://instagram.com" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
+      <li class="d-none"><a href="https://facebook.com" target="_blank"><i class="fa-brands fa-facebook-f"></i></a></li>
+      <li class="d-none"><a href="https://instagram.com" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
       <li><a href="https://twitter.com/yourcancerdr" target="_blank"><i class="fa-brands fa-twitter"></i></a>
       </li>
       <li><a href="https://youtube.com/@dr.mohanavamsy7513?si=InOU4DIR1DDL7UqS" target="_blank"><i
             class="fa-brands fa-youtube"></i></a></li>
-      <li><a href="https://wa.me/9849022121" target="_blank"><i class="fa-brands fa-whatsapp"></i></a></li>
+      <li class="d-none"><a href="https://wa.me/9849022121" target="_blank"><i class="fa-brands fa-whatsapp"></i></a></li>
     </ul>
   </div>
 </div>
