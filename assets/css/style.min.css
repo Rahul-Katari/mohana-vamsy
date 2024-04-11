@@ -2760,6 +2760,7 @@ button[class*=-dark]:hover {
     left: 30px;
     top: -70px;
     position: absolute;
+    display: none;
 }
 
 .blog_item .post_category a {
