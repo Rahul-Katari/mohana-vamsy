@@ -2741,6 +2741,8 @@ button[class*=-dark]:hover {
     display: block;
     -webkit-transition: var(--bs-transition);
     transition: var(--bs-transition);
+    height: 300px;
+    object-fit: contain;
 }
 
 .blog_item .blog_image_wrap:hover img {
