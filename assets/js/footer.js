@@ -24,7 +24,7 @@ let footerHtml = `<div class="container"><div class="site_footer_content">
   <div class="col-lg-4">
     <a class="site_link text-black" href="https://maps.app.goo.gl/F35d8HXCZrDHWucJ8" target="_blank">
       <div class="site_logo">
-        <h4 class="text-white"><i class="fa-solid fa-location-dot me-2"></i>Address</h4>
+        <h2 class="text-white h4"><i class="fa-solid fa-location-dot me-2"></i>Address</h2>
       </div>
       <div>
         <ul class="list-unstyled">
