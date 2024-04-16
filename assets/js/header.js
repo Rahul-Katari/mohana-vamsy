@@ -4,7 +4,7 @@ const headerHtml = `<div class="container">
     <!-- <div class="site_logo"><a class="site_link" href="index.html"><img
           src="assets/images/site_logo/site_logo_primary.svg" alt="Site Logo – Dr. Mohana Vamsy"></a></div> -->
     <div>
-      <a class="site_link" href="index.html">
+      <a class="site_link" href="/">
         <h2 class="text-primary"><i class="fa-solid fa-ribbon me-2"></i>Dr. Ch. Mohana Vamsy</h2>
       </a>
     </div>
@@ -13,7 +13,7 @@ const headerHtml = `<div class="container">
     <nav class="main_menu navbar navbar-expand-lg">
       <div class="main_menu_inner collapse navbar-collapse justify-content-center" id="main_menu_dropdown">
         <ul class="main_menu_list unordered_list">
-          <li ><a class="nav-link" href="index.html">Home</a></li>
+          <li ><a class="nav-link" href="/">Home</a></li>
           <li><a class="nav-link" href="services.html">Services</a></li>
           <li><a class="nav-link" href="achievements.html">Achievements</a></li>
           <li><a class="nav-link" href="faqs.html">FAQ's</a></li>

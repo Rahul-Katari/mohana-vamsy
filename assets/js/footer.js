@@ -64,7 +64,7 @@ let footerHtml = `<div class="container"><div class="site_footer_content">
 </div>
 </div>
 <div class="copyright_widget text-center">
-<p class="copyright_text m-0"> © <b>Dr. Ch. Mohna Vamsy</b> All rights reserved Copyrights ${new Date().getFullYear()}</p>
+<p class="copyright_text m-0"> © ${new Date().getFullYear()} <b>Dr. Ch. Mohna Vamsy</b> All rights reserved. Developed and Designed By <a target="_blank" href="https://webbingprotechnologies.com/" class="text-secondary"><b>WebbingPro Technologies</b></a> - <a class="text-secondary" href="tel:+919059329297"><strong>90593 29297</strong></a> </p>
 </div></div>`;
 $(document).ready(function () {
   $(".site_footer").html(footerHtml);

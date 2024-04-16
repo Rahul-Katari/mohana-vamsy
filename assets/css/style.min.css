@@ -13,12 +13,12 @@
     --bs-body-color: #51565D;
     --bs-body-color-rgb: 81, 86, 93;
     --bs-transition: all 0.4s cubic-bezier(0.25, 1, 0.5, 1);
-    --bs-primary: #26ABA3;
-    --bs-secondary: #F7AB1E;
-    --bs-dark: #293039;
-    --bs-primary-rgb: 38, 171, 163;
-    --bs-secondary-rgb: 247, 171, 30;
-    --bs-dark-rgb: 41, 48, 57;
+    --bs-primary: #25aca4;
+    --bs-secondary: #f8ac1f;
+    --bs-dark: #2a3138;
+    --bs-primary-rgb: 37, 172, 164;
+    --bs-secondary-rgb: 248, 172, 31;
+    --bs-dark-rgb: 42, 49, 56;
     --bs-primary-bg-subtle: #F4FCFA;
     --bs-secondary-bg-subtle: #FEF3DE;
     --bs-link-color: var(--bs-primary);
@@ -1781,7 +1781,7 @@ button[class*=-dark]:hover {
 }
 
 .rating_star li i {
-    color: #F7AB1E;
+    color: #f8ac1f;
 }
 
 .accordion .accordion-item {
