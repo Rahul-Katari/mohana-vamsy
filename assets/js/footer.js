@@ -1,9 +1,8 @@
 let footerHtml = `<div class="container"><div class="site_footer_content">
 <div class="row">
   <div class="col-lg-5">
-    <div class="site_logo"><a class="site_link" href="index.html">
-        <h2 class="text-white"><i class="fa-solid fa-ribbon me-2"></i>Dr. Mohana Vamsy</h2>
-      </a></div>
+      <div class="site_logo"><a class="site_link" href="/"><img
+          src="assets/images/site_logo/logo-white.png" alt="Site Logo – Dr. Mohana Vamsy" class="w-30"></a></div>
     <div>
       <table style="text-align:start" cellpadding="5" class="d-flex d-md-block justify-content-center">
         <tr>

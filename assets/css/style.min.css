@@ -3267,14 +3267,14 @@ blockquote cite {
 }
 
 .contact_info_box:hover {
-    color: var(--bs-white);
-    background-color: var(--bs-primary);
+    /* color: var(--bs-white);
+    background-color: var(--bs-primary); */
 }
 
 .contact_info_box:hover * {
-    color: var(--bs-white);
+    /* color: var(--bs-white);
     -webkit-transition: var(--bs-transition);
-    transition: var(--bs-transition);
+    transition: var(--bs-transition); */
 }
 
 .gmap_canvas.contact_map iframe {
@@ -4303,4 +4303,8 @@ blockquote cite {
     .page_banner .decoration_item.shape_leaf_2 {
         right: -20px;
     }
+}
+
+.w-30 {
+    width: 30%;
 }

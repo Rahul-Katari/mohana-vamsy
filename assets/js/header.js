@@ -1,13 +1,9 @@
 const headerHtml = `<div class="container">
 <div class="row align-items-center">
   <div class="col-lg-4 col-9">
-    <!-- <div class="site_logo"><a class="site_link" href="index.html"><img
-          src="assets/images/site_logo/site_logo_primary.svg" alt="Site Logo – Dr. Mohana Vamsy"></a></div> -->
-    <div>
-      <a class="site_link" href="/">
-        <h2 class="text-primary"><i class="fa-solid fa-ribbon me-2"></i>Dr. Ch. Mohana Vamsy</h2>
-      </a>
-    </div>
+    <div class="site_logo"><a class="site_link" href="/"><img
+          src="assets/images/site_logo/logo.png" alt="Site Logo – Dr. Mohana Vamsy" class="w-30"></a></div>
+    
   </div>
   <div class="col-lg-8 col-1 px-0">
     <nav class="main_menu navbar navbar-expand-lg">
