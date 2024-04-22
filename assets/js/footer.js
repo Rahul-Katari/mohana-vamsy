@@ -15,7 +15,7 @@ let footerHtml = `<div class="container"><div class="site_footer_content">
         </tr>
         <tr>
           <td><i class="fa-solid fa-clock text-secondary"></i></td>
-          <td class="text-black"><strong>Mon</strong> to <strong>Sat</strong> : <strong class="text-white"> 08:00 - 20:00</strong></td>
+          <td class="text-black"><strong>Mon</strong> to <strong>Sat</strong> : <strong class="text-white"> 8 AM - 8 PM</strong></td>
         </tr>
       </table>
     </div>
