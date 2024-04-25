@@ -4061,6 +4061,9 @@ blockquote cite {
         width: 34px;
         height: 34px;
     }
+    .service_item {
+        text-align: center;
+    }
 }
 
 @media screen and (max-width: 425px) {
@@ -4141,6 +4144,7 @@ blockquote cite {
 
     .service_item {
         padding: 35px;
+        text-align:center;
     }
 
     .service_item .item_title {
