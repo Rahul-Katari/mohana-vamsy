@@ -13,7 +13,7 @@ const headerHtml = `<div class="container">
           <li><a class="nav-link" href="services.html">Services</a></li>
           <li><a class="nav-link" href="achievements.html">Achievements</a></li>
           <li><a class="nav-link" href="faqs.html">FAQ's</a></li>
-          <li><a class="nav-link" href="blogs.html">Blogs</a></li>
+          <li><a class="nav-link" href="blog">Blogs</a></li>
           <li><a class="nav-link" href="gallery.html">Gallery</a></li>
           <li><a class="nav-link" href="contact.html">Contact Us</a></li>
         </ul>
